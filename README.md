@@ -1,9 +1,16 @@
-professional steve harrington boyfriend
+<div align = center>
 
-uhh im lazy. look at the strawpage it's cool.
+<img src="https://github.com/hellfirecIub/hellfirecIub/blob/8914451f6cedc70b65b5a7e6d9e68e8573defa2a/me%20fr.gif" height=400 width=400>
 
-this is a wip... oops.. i'll make it look pretty later
+</div>
+<br></br>
+<div align = center>
+<img src="https://github.com/hellfirecIub/hellfirecIub/blob/8914451f6cedc70b65b5a7e6d9e68e8573defa2a/coffin.jpg" height=375 width=375>
+</div>
+<br></br>
+<div align = center>
 
-<img src="https://github.com/hellfirecIub/hellfirecIub/blob/506e6a51c6309347676983df438a5d1ab7c01e73/actually%20meee.gif" height=400 width=400>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
